@@ -1,0 +1,6 @@
+openai-whisper
+gtts
+moviepy
+torch 
+python-dotenv
+requests 
