@@ -4,3 +4,5 @@ moviepy
 torch 
 python-dotenv
 requests 
+funasr
+torchaudio
